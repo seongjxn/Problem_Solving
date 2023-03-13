@@ -1,7 +1,7 @@
 {
 	"BOJ-Python": {
 		"scope": "python",
-		"prefix": "pysetup",
+		"prefix": "pybojsetup",
 		"body": [
 			"# BOJ ** : **",
 			"# https://www.acmicpc.net/problem/**",
