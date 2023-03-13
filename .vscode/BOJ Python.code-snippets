@@ -1,0 +1,15 @@
+{
+	"BOJ-Python": {
+		"scope": "python",
+		"prefix": "pysetup",
+		"body": [
+			"# BOJ ** : **",
+			"# https://www.acmicpc.net/problem/**",
+			"",
+			"",
+			"import sys",
+			"a = sys.stdin.readline()"
+		],
+		"description": "Setup for BOJ-Python"
+	}
+}
