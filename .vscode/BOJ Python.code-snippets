@@ -7,8 +7,7 @@
 			"# https://www.acmicpc.net/problem/**",
 			"",
 			"",
-			"import sys",
-			"a = sys.stdin.readline()"
+			"import sys ; input = sys.stdin.readline"
 		],
 		"description": "Setup for BOJ-Python"
 	}
