@@ -3,8 +3,8 @@
 		"scope": "python",
 		"prefix": "pybojsetup",
 		"body": [
-			"# BOJ ** : **",
-			"# https://www.acmicpc.net/problem/**",
+			"# BOJ $1 : $2",
+			"# https://www.acmicpc.net/problem/$3",
 			"",
 			"",
 			"import sys ; input = sys.stdin.readline"
